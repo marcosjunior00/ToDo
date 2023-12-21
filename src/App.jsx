@@ -51,8 +51,14 @@ const App = () => {
 
   return (
     <C.Container>
-      <C.BtnClear alt="limpar todo" onClick={removeTodo}>
-        <i className="bx bx-home-alt-2"></i>
+      <C.BtnClear alt="limpar todo" onClick={removeTodo} onMouseEnter={() => {
+        const container = document.getElementsByClassName('bx-trash')[0];
+        container.classList.add('bx-tada');
+      }} onMouseLeave={() => {
+        const container = document.getElementsByClassName('bx-trash')[0];
+        container.classList.remove('bx-tada');
+      }}>
+        <i className="bx bx-trash"></i>
       </C.BtnClear>
 
       <C.Title>TO DO LIST</C.Title>
