@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import * as C from "./styles/globalStyles";
 
-function App() {
+const App = () => {
   const [task, setTask] = useState("");
   const [listTasks, setListTasks] = useState([]);
   const [dataLoaded, setDataLoaded] = useState();
