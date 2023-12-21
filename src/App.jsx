@@ -68,7 +68,8 @@ const App = () => {
           type="text"
           value={task}
           placeholder="Digite sua tarefa"
-          onChange={(e) => setTask(e.target.value)}
+          onChange={e => setTask(e.target.value)}
+          onKeyDown={e => e.key === 'Enter' && addTask()}
         />
         <C.Button onClick={addTask}>Enviar</C.Button>
       </C.InputGroup>
