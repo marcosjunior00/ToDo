@@ -16,3 +16,6 @@ As tasks sempre estarão no local storage e existe um botão que conseguimos lim
 ### Linguagens utilizadas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
 
+### Tecnologias utilizadas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+
