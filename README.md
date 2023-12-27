@@ -8,7 +8,8 @@ As tasks sempre estarão no local storage e existe um botão que conseguimos lim
 
 <br>
 
-![image](https://github.com/marcosjunior00/ToDo/assets/132008242/ed3d5b69-b637-4c69-9c83-57fdcdacfdab)
+![image](https://github.com/marcosjunior00/ToDo/assets/132008242/981263b1-7e76-4af3-a168-25600705e0f5)
+
 
 #
 
