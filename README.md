@@ -1,5 +1,5 @@
 # TO DO
-Neste repositório está uma To Do List desenvolvida através do React Js para testar meus conhecimentos na linguagem e na biblioteca.
+Neste repositório está uma To Do List desenvolvida através do React Js para testar meus conhecimentos na linguagem e no framework.
 
 As tasks sempre estarão no local storage e existe um botão que conseguimos limpar a To Do List.
 
