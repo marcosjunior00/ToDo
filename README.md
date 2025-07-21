@@ -4,7 +4,7 @@ Neste repositório está uma To Do List desenvolvida através do React Js para t
 As tasks sempre estarão no local storage e existe um botão que conseguimos limpar a To Do List.
 
  Você pode acessar o projeto pelo link abaixo: <br>
- <a href="https://to-do-gules-seven.vercel.app/" target="_blank">Link do Projeto | To Do</a>
+ [Link do Projeto | To Do](https://to-do-gules-seven.vercel.app/)
 
 <br>
 
