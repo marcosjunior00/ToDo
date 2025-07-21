@@ -27,7 +27,8 @@ export const BtnClear = styled.button`
 
 export const Container = styled.div`
   width: 100%;
-  min-height: 49rem;
+  height: 100vh;
+  max-height: 100vh;
   background-color: rgba(0, 0, 0, 0.1);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   display: flex;
